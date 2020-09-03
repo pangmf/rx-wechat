@@ -105,4 +105,4 @@
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.booter.MMReceivers$AlarmReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver" sender="any"/>
   
-</prescription>
+</prescriptions>
