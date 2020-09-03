@@ -1,5 +1,5 @@
 # rx-wechat
-限制微信的行为.
+优化微信的行为.
 </br>
 ## Thanks
 [MyAndroidTools](https://play.google.com/store/apps/details?id=cn.wq.myandroidtools&hl=zh)
