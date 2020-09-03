@@ -52,6 +52,7 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.Appbrand4IPCService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.booter.CoreService$InnerService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.booter.KeepAliveService" sender="any"/>
+  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$MMProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$PushProcessServicer" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$DexOptProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$ToolsProcessService" sender="any"/>
