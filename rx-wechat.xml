@@ -31,7 +31,6 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.multitalk.model.MultiTalkingForegroundService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.voip.widget.VoipForegroundService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.account.model.ContactsSyncService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.account.model.VoiceActionService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.wepkg.ipc.WepkgMainProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.gpu.service.GpuHookServiceImpl" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.rubbishbin.RubbishBinServiceImpl" sender="any"/>
@@ -49,15 +48,12 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.Appbrand2IPCService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.Appbrand3IPCService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.Appbrand4IPCService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.booter.CoreService$InnerService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.booter.KeepAliveService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$PushProcessServicer" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$DexOptProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$ToolsProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$ExDeviceProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$SandBoxProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$SupportProcessService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.service.ProcessService$ToolsmpProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.crash.CuploaderProcessServicer" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.appbrand.jsapi.nfc.hce.HCEService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.sqlitelint.behaviour.alert.CheckedDatabaseListActivity" sender="any"/>
@@ -80,7 +76,6 @@
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.modelstat.WatchDogPushReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.plugin.auto.service.MMAutoMessageHeardReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.plugin.auto.service.MMAutoMessageReplyReceiver" sender="any"/>
-  <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.sandbox.monitor.ExceptionMonitorBroadcastReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.plugin.setting.SwitchAccountReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.plugin.lite.WxaLiteAppTaskPreloadReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.plugin.performance.elf.ElfCallUpReceiver" sender="any"/>
