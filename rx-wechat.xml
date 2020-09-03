@@ -98,7 +98,6 @@
   <prescription package="com.tencent.mm" type="broadcast" com.tencent.mm.plugin.downloader.ui.FileDownloadNotificationClickReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" com.tencent.mm.plugin.report.service.KVCommCrossProcessReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" com.tencent.matrix.report.MatrixReportBroadcast" sender="any"/>
-  <prescription package="com.tencent.mm" type="broadcast" com.tencent.mm.booter.MMReceivers$ToolsProcessReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" com.tencent.mm.booter.MMReceivers$ToolsMpProcessReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" com.tencent.mm.booter.MMReceivers$SandBoxProcessReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" com.tencent.mm.booter.MMReceivers$ExdeviceProcessReceiver" sender="any"/>
