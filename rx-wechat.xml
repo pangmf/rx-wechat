@@ -65,7 +65,10 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.recovery.service.RecoveryHandleService$InnerService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.smtt.sandbox.SandboxedProcessService0" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.smtt.sandbox.SandboxedProcessService1" sender="any"/>
-  
+    
+  <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mars.comm.Alarm " sender="any"/>
+  <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.booter.MMReceivers$AlarmReceiver" sender="any"/>
+  <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.booter.MMReceivers$BootReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.ui.tools.QbCallBackBroadcast" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.booter.ClickFlowReceiver" sender="any"/>
   <prescription package="com.tencent.mm" type="broadcast" class="com.tencent.mm.booter.BluetoothStateReceiver" sender="any"/>
