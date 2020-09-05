@@ -5,7 +5,6 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.modelrecovery.RecoveryTinkerResultService" sender="any"/>"
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.ipcall.model.IPCallForegroundService" sender="any"/>"
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.sdcard_migrate.ExtStorageMigrateService" sender="any"/>"
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.remoteservice.RemoteService" sender="any"/>"
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.sandbox.monitor.ExceptionMonitorService" sender="any"/>"
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.talkroom.component.TalkRoomService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.wear.model.service.WearDataLayerService" sender="any"/>
