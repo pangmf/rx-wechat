@@ -25,7 +25,6 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.appbrand.loading.AppBrandProcessTriggerService4" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.game.gamewebview.ipc.GameWebViewMainProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.webview.luggage.ipc.LuggageMainProcessService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.music.model.notification.MMMusicPlayerService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.multitalk.model.MultiTalkingForegroundService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.account.model.ContactsSyncService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.wepkg.ipc.WepkgMainProcessService" sender="any"/>
@@ -39,8 +38,6 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.cdndownloader.service.CDNDownloadService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.cdndownloader.service.CDNDownloadServiceSlot" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.util.FullScreenIntentService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.ToolsProcessIPCService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.ToolsMpProcessIPCService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.SupportProcessIPCService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.Appbrand2IPCService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.ipcinvoker.wx_extension.service.Appbrand3IPCService" sender="any"/>
