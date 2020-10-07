@@ -27,7 +27,6 @@
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.webview.luggage.ipc.LuggageMainProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.music.model.notification.MMMusicPlayerService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.multitalk.model.MultiTalkingForegroundService" sender="any"/>
-  <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.voip.widget.VoipForegroundService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.account.model.ContactsSyncService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.plugin.wepkg.ipc.WepkgMainProcessService" sender="any"/>
   <prescription package="com.tencent.mm" type="service" class="com.tencent.mm.gpu.service.GpuHookServiceImpl" sender="any"/>
